@@ -22,9 +22,9 @@ Angular (2+)
 
 AngularJS (1.x)
 
-Backbone
+[Backbone](https://backbonejs.org/)
 
-Blazor
+[Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 
 Bootstrap
 
