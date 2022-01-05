@@ -2,7 +2,7 @@ We share the web development tools and resources that we feature in our Develope
 
 How can you get involved? Over the coming weeks we'll be adding links to the tools listed below. If you'd like to add links, go for it! We'll also over time be adding in links to web developer influncers, YouTube channels and Twitter lists. 
 
-Think there is a tool that we've missed. Help us update the list and we'll consider the tool for our future surveys.
+Do you think there is a tool that we've missed? Help us update the list and we'll consider the tool for our future surveys.
 
 # Web Development Resources
 Web development tools as featured in our Developer Nation survey
