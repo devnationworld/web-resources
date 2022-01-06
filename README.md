@@ -18,52 +18,52 @@ Web development tools as featured in our Developer Nation survey
 
 ## Front-end frameworks and libraries 
 
-Angular (2+)
+[Angular (2+)]((https://angularjs.org/))
 
-AngularJS (1.x)
+[AngularJS (1.x)](https://angularjs.org/)
 
 [Backbone](https://backbonejs.org/)
 
 [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 
-Bootstrap
+[Bootstrap](https://getbootstrap.com/)
 
-Dojo
+[Dojo](https://dojo.io/)
 
-Ember
+[Ember](https://emberjs.com/)
 
-Flutter
+[Flutter](https://flutter.dev/)
 
-jQuery
+[jQuery](https://jquery.com/)
 
-Kendo UI
+[Kendo UI](https://www.telerik.com/kendo-ui)
 
-Knockout
+[Knockout](https://knockoutjs.com/)
 
-Meteor (Blaze)
+[Meteor (Blaze)](http://blazejs.org/)
 
-Polymer
+[Polymer](https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview)
 
-React
+[React](https://reactjs.org/)
 
-Svelte
+[Svelte](https://svelte.dev/)
 
-Tailwind CSS
+[Tailwind CSS](https://tailwindcss.com/)
 
-Vue
+[Vue](https://vuejs.org/)
 
 
 ## Server-side frameworks 
 
-Apache Wicket
+[Apache Wicket](https://wicket.apache.org/)
 
-ASP.NET
+[ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
 
-ASP.NET Core
+[ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
 
-CakePHP
+[CakePHP](https://cakephp.org/)
 
-CodeIgniter
+[CodeIgniter](https://codeigniter.com/)
 
 Django
 
