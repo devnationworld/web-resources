@@ -18,7 +18,7 @@ Web development tools as featured in our Developer Nation survey
 
 ## Front-end frameworks and libraries 
 
-[Angular (2+)]((https://angularjs.org/))
+[AngularJS (2+)](https://angularjs.org/)
 
 [AngularJS (1.x)](https://angularjs.org/)
 
